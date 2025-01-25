@@ -1,5 +1,5 @@
 
-# JIRA Prioritisation
+# Backlog Buddy: Agile Insights Dashboard
 
 ## Description
 
